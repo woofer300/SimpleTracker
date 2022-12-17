@@ -4,6 +4,7 @@ version: 1.0.0
 description: Allows you to get the coordinates of a player.
 api-version: 1.19
 author: woofer
+website: https://github.com/woofer300/SimpleTracker
 
 commands:
   coords:
