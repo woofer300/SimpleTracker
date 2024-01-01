@@ -1,2 +1,2 @@
 # SimpleTracker
-Simple Spigot plugin that allows players to use /coords <username> to find the coordinates of a player in game.
+Simple Spigot plugin that adds "/coords <username>" command which outputs a player's in-game coordinates.

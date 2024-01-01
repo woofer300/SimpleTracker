@@ -1,13 +1,13 @@
 main: dev.woofer.simpletracker.SimpleTracker
 name: SimpleTracker
 version: 1.0.0
-description: Allows you to get the coordinates of a player.
+description: Adds "/coords <username>" command which outputs a player's in-game coordinates.
 api-version: 1.20
 author: woofer
 
 commands:
   coords:
-    description: A command that grabs the coordinates of a given player.
+    description: Grabs a player's coordinates.
     permission: simpletracker.coords
     usage: /coords <username>
 
