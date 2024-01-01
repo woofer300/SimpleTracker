@@ -1,6 +1,6 @@
 main: dev.woofer.simpletracker.SimpleTracker
 name: SimpleTracker
-version: 1.0.0
+version: 1.0.1
 description: Adds "/coords <username>" command which outputs a player's in-game coordinates.
 api-version: 1.20
 author: woofer
